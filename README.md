@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhaymaurya007
+- 👋 Hi, I’m Abhay Maurya 
 - 👀 I’m interested in ...  Full Stack Developer
 - 🌱 I’m currently learning ...Full Stack JAVA
 - 💞️ I’m looking to collaborate on ...  
