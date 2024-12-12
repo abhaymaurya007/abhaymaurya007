@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...  Full Stack Developer
 - 🌱 I’m currently learning ...Full Stack JAVA
 - 💞️ I’m looking to collaborate on ...  
-- 📫 How to reach me ...  Email : abhaymauryajnp2@gmail.com
+- 📫 How to reach me ...  Email : abhaymauryajnp62@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  I'm From Mechanical Stream 
 
