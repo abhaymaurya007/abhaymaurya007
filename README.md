@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...Full Stack JAVA
 - 💞️ I’m looking to collaborate on ...Real time industry projects 
 - 📫 How to reach me ...  Email : abhaymauryajnp62@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...  I'm From Mechanical Stream 
 
 <!---
